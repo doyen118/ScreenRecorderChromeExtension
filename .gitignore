@@ -1,0 +1,4 @@
+/node_modules/
+/record-screen/build/
+.DS_Store
+*.crx
